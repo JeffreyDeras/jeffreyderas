@@ -10,8 +10,12 @@
 - 💻 Cursando Pos-graduação em Engenharia de Software com metodos Ágeis e MBA-em-tecnologia-para-negocios-ai-data-science-e-big-data.
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeffreyderas&show_icons=true&theme=dracula)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeffreyderas&layout=compact)](https://github.com/jeffreyderas/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeffreyderas&show_icons=true&theme=dark)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jeffreyderas&theme=dark&border_radius=4.8)](https://git.io/streak-stats)
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=y944er12ynriiyehs27w2z3tn)
+
+
+
 
 
   <div style="display: inline_block"><br>
